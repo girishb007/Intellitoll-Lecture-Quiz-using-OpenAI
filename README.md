@@ -24,5 +24,6 @@ Features
 
 - Optimization for multiple choice questions
 - Retry failed generation requests
+- Integration with Intellitool Website
 
 
